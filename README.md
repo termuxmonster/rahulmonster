@@ -4,6 +4,7 @@ Use it on kali or termux
 😈😈
 # before use-
 apt update
+
 apt upgrade
 apt install python
 apt install python2
